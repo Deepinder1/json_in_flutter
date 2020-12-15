@@ -1,7 +1,6 @@
 # json_in_flutter
 
-A new Flutter project.
-
+Customized flutter json built by me
 ## Getting Started
 
 This project is a starting point for a Flutter application.
